@@ -30,6 +30,6 @@ I am currently working on a health records management system<br>I am very hard w
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=wisdomdzontoh&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=wisdomdzontoh&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
