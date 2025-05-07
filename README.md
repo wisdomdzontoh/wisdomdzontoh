@@ -23,13 +23,6 @@ I build robust, scalable web applications and data‑driven tools—whether it�
 
 ## 💼 Professional Experience
 
-### 🏥 Health Information Officer
-**Greater Accra Regional Health Directorate, Ghana Health Service**  
-*2021 – Present*
-
-- Managed health data systems using DHIMS2, ensuring data integrity and accessibility.
-- Developed digital tools for data collection and analysis, including ODK, Kobo Collect, and Google Forms.
-- Trained healthcare professionals on data management best practices.
 
 ### 🧑‍💻 Software Engineer (Freelance)
 **CBAMESTIMATOR GmbH, Germany**  
@@ -38,6 +31,15 @@ I build robust, scalable web applications and data‑driven tools—whether it�
 - Designed and deployed scalable backend solutions using Python and Django.
 - Developed and maintained RESTful APIs and efficient data pipelines.
 - Automated processes such as lead generation, invoice management, and email campaigns.
+
+
+### 🏥 Health Information Officer
+**Greater Accra Regional Health Directorate, Ghana Health Service**  
+*2021 – 2024*
+
+- Managed health data systems using DHIMS2, ensuring data integrity and accessibility.
+- Developed digital tools for data collection and analysis, including ODK, Kobo Collect, and Google Forms.
+- Trained healthcare professionals on data management best practices.
 
 ---
 
