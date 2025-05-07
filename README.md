@@ -1,7 +1,16 @@
 # 👨‍💻 Wisdom Dzontoh – Full-Stack Developer & Health Informatics Specialist
 
-Welcome to my digital portfolio! I'm a passionate software engineer and health informatician dedicated to creating innovative solutions that bridge technology and healthcare. With over 5 years of experience, I specialize in building scalable web applications, APIs, and data-driven systems using modern technologies.
+Hi there! I’m Wisdom Dzontoh, a Data Analytics Engineer and Full‑Stack Software Engineer based in Accra, Ghana. I specialize in:
 
+Backend Development: Python | Django & Django REST Framework | FastAPI
+
+Frontend: Next.js | TypeScript | Tailwind CSS | chadcn/ui
+
+Databases & Cloud: PostgreSQL | MySQL | MongoDB | AWS | Docker
+
+Data Analytics & Automation: Pandas | NumPy | Selenium | BeautifulSoup
+
+I build robust, scalable web applications and data‑driven tools—whether it’s RESTful APIs, dashboarding apps, or AI‑powered automations. Check out my repositories to see what I’m working on, and feel free to connect!
 ---
 
 ## 🌐 Connect with Me
